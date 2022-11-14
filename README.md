@@ -1,5 +1,5 @@
 # Background
-fds
+You work for a policy consulting firm. One of the firm's principals is preparing to give a presentation on the state of internet access in the world. She needs your help answering some questions about internet accessibility across the world.
 
 # Challenge
 Create a report to answer the principal's questions. Include:
@@ -11,3 +11,5 @@ Create a report to answer the principal's questions. Include:
 5. What are the 5 countries with the most internet users?
 6. What is the correlation between internet usage (population share) and broadband subscriptions for 2019?
 7. Summarize your findings.
+
+# Links
