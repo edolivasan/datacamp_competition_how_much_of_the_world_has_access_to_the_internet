@@ -13,11 +13,17 @@ Create a report to answer the principal's questions. Include:
 7. Summarize your findings.
 
 # Summary
-- Between the top 5 countries with the highest internet use:
-    - 4 of 5 countries are from the Africa Western and Central.
-    - Liechtenstein is the only country from the European Union.
-- United Arab Emirates is the country with the highest number of users (9,133,361 users) in 2019.
-- China is the country with the highest number of users (1,003,218,650).
+- Bahrain is the country with the highest share of population using the internet (99.7%) in 2019.
+- Between the top 5 countries with the highest internet usage in 2019:
+    - 4 of 5 countries are from the Africa Western and  Central region.
+    - Denmark is the only country from the European Union.    
+- United Arab Emirates is the country with the highest number of users (9,133,361 users) in the top 5 countries with the highest internet usage in 2019.
+- Even though Bahrain is the top 1 country with the highest internet usage in 2019, it has the lowest number of users (1,489,735 users) between the top 5 countries with the highest internet usage in 2019.
+- The overall users in the top 5 countries with the highest internet usage in 2019 are 23,524,039.
+- The internet usage over time by regions figure shows that all regions have a growth in the internet usage over time, but North America and South Asia region.
+    - In the region of North America, United States seems to be the country that makes the mean of the region go down. It has negative percent of growth in 2009 (-4.05%), 2011 (-2.7%) and 2013 (-4.4%).
+    - In the region of South Asia, Sri Lanka has massive negative growth in 2014 (-53.1%).
+- China is the country with the highest number of users (1,003,218,650 users).
 - There is a positive correlation between the internet usage and broadband subscriptions (0.56) for 2019.
 
 # Links
